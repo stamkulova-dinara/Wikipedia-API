@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wikipedia-API/static/css/main.2969d6c8.chunk.css",
+    "main.js": "/Wikipedia-API/static/js/main.3d07ac88.chunk.js",
+    "main.js.map": "/Wikipedia-API/static/js/main.3d07ac88.chunk.js.map",
+    "runtime-main.js": "/Wikipedia-API/static/js/runtime-main.84cbbc20.js",
+    "runtime-main.js.map": "/Wikipedia-API/static/js/runtime-main.84cbbc20.js.map",
+    "static/js/2.7f8092dd.chunk.js": "/Wikipedia-API/static/js/2.7f8092dd.chunk.js",
+    "static/js/2.7f8092dd.chunk.js.map": "/Wikipedia-API/static/js/2.7f8092dd.chunk.js.map",
+    "index.html": "/Wikipedia-API/index.html",
+    "static/css/main.2969d6c8.chunk.css.map": "/Wikipedia-API/static/css/main.2969d6c8.chunk.css.map",
+    "static/js/2.7f8092dd.chunk.js.LICENSE.txt": "/Wikipedia-API/static/js/2.7f8092dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84cbbc20.js",
+    "static/js/2.7f8092dd.chunk.js",
+    "static/css/main.2969d6c8.chunk.css",
+    "static/js/main.3d07ac88.chunk.js"
+  ]
+}
